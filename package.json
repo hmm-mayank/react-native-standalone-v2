@@ -1,6 +1,6 @@
 {
   "name": "react-native-youtube-v2",
-  "version": "2.0.2",
+  "version": "0.0.1",
   "description": "A <YouTube/> component for React Native with exception handling.",
   "main": "main.js",
   "types": "main.d.ts",
