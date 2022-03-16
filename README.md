@@ -239,6 +239,7 @@ To be able to directly test your changes with the example app, re-install the pa
 
 - Param Aggarwal (paramaggarwal@gmail.com)
 - David Ohayon ([@davidohayon669](https://twitter.com/davidohayon669))
+- Mayank Dwivedi (mayankanildwivedi@gmail.com)
 
 ## License
 
